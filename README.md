@@ -1,2 +1,2 @@
 # NNTimerLoop
-封装的一个倒计时功能的dome
+封装的一个倒计时功能的demo
